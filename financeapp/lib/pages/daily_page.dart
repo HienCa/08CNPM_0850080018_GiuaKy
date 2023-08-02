@@ -61,7 +61,7 @@ class _DailyPageState extends State<DailyPage> {
                                     image: NetworkImage(
                                         "https://images.unsplash.com/photo-1531256456869-ce942a665e80?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTI4fHxwcm9maWxlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"),
                                     fit: BoxFit.cover)),
-                          ),s
+                          ),
                         ],
                       ),
                       const SizedBox(
