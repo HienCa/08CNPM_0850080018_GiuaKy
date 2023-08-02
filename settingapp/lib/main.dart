@@ -61,10 +61,6 @@ class _SettingsPageState extends State<SettingsPage> {
                             "Common",
                             style: headingStyle,
                           ),
-                          Text(
-                            "Việt Nam",
-                            style: headingStyle,
-                          ),
                         ],
                       ),
                       const ListTile(
